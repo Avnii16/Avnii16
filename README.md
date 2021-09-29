@@ -1,4 +1,4 @@
-# Hacktoberfest Practice - Design and Code
+# HacktoberFest Practice - Design and Code
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -6,9 +6,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 
-## What is Hacktoberfest-practice?
+## What is HacktoberFest-Practice?
+> #### This is a Practise Repo for you awesome people, to practise Pull requests by doing easy stuff. and also Showcase your names in this HacktoberFest Practise Repo, and let your sweet 💖 memory embbed here.
 
-Project Showcase is a collection of all the amazing things built by the members of the community
 
 
 ## [Design-and-Code](https://discord.gg/druweDMn3s)
@@ -35,6 +35,16 @@ Welcome to Design & Code where anyone interested in designing and coding can con
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <br />
+  
+ ---
+
+<h3 align="center"> <b>Join our Community and feel free to drop your questions on</h3>
+<p align="center">
+   <a href="https://discord.gg/druweDMn3s">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
+</p>
+
+---
 
 
 ## Contribution Guidelines🏗
@@ -42,7 +52,7 @@ Welcome to Design & Code where anyone interested in designing and coding can con
 Want to add your project to the repo? We invite you to contribute. 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/Design-and-Code/Projects-showcase) repository.
+**1.**  Fork [this](https://github.com/Design-and-Code/Hacktoberfest-practice) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -109,3 +119,50 @@ git push -u origin <your_branch_name>
 
 **15** Voila! You have made a PR to the Projects-showcase 💥 . Wait for your submission to be accepted and your PR to be merged.
 
+  
+#### Note : 
+> Please do not edit anything above ```<!--START_SECTION-->``` and below ```<!--END_SECTION-->``` in README.MD
+
+ 
+---
+  
+  
+## Project Maintainers 🛠
+ <div align="center">
+<table>
+  <tbody>
+      
+  <td align="center"><a href="https://github.com/DevrajDC"><img alt="github profile" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code"> UI  /  UX Designer</a></td> </a></td>
+  
+  <td align="center"><a href="https://github.com/sakshamgurbhele"><img alt="github profile" src="https://avatars.githubusercontent.com/u/64558515" width="130px;"><br><sub><b> Saksham Gurbhele </b></sub></a><br><a href="https://github.com/Design-and-Code/Projects-showcase" title="Code"> Android Developer </a></td> </a></td>
+      
+  </tbody>
+</table>
+</div>
+
+---
+<!--START_SECTION-->
+
+## Add Your Names and Super fun facts in the Table below 🤩
+| Sr. no.| Name✨| Social | A fact about yourself 💯 | Your 💖 Language |
+|--|--|--|--|--|
+| 1. | [Devraj Chaterbin](https://github.com/DevrajDC) | [Twitter](https://twitter.com/devrajchatribin)  | College takes my 14 hours from 24 sed lyf 🥲|JavaScript ⚡️ |
+| 2. | [Saksham Gurbhele](https://github.com/sakshamgurbhele) | [Twitter](https://twitter.com/sakshamm_9)  | I cook food 🍲 and love to loop Spotify Playlists :P |Java 🚀|
+| 3. | [Falguni Sarkar](https://github.com/lostgirljourney) | [Spotify]() | I am lost, come back later xD | Sarcasm|
+| 4. | [Anirudha Das](https://github.com/) | [Discord]()  | yato yato yato, idk what it means :P | Sarcasm |
+| 5. | [Greeshma](https://github.com/) | [LinkedIn]()  | I live in goa & I don't know what is party 🥲 | Sarcasm|
+| 6. | [Nandini Paliwal](https://github.com/) |[Instagram]() | Currently busy in Proteus (college project) | Sarcasm|
+| 6. | [Nimish](https://github.com/) |[Instagram]() | I love to play basketball 🏀 | Sarcasm|
+
+<!-- Add your names here -->
+
+---
+<!--END_SECTION-->
+
+## Our valuable Contributors👩‍💻👨‍💻 :
+<a href="https://github.com/Design-and-Code/Hacktoberfest-practice/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Design-and-Code/Hacktoberfest-practice" />
+</a>
+
+<div align="center">
+ We will be happy if you give this repo a ⭐
