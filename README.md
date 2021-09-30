@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lmfao-fa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Avni
+- 👀 I’m interested in Design
+- 🌱 I’m currently learning Figma
+- 💞️ I’m looking to collaborate on Designs
+
 
 <!---
 Lmfao-fa/Lmfao-fa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
