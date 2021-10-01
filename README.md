@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnii16&layout=compact&show_icons=true&theme=algolia)](https://github.com/avnii16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avnii16&layout=compact&show_icons=true&theme=algolia)](https://github.com/Avnii16)
            
 </div>
 
