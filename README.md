@@ -1,5 +1,12 @@
+ ![Visitor Count](https://profile-counter.glitch.me/{Avnii16}/count.svg)
 
-- 👋 Hi, I’m Avni
+<div align="center">
+  <h2>
+
+    Hello World 👋 I'm Avni
+
+  </h2>
+</div>
   
 - 👀 I’m interested in Design
   
@@ -19,21 +26,7 @@ You can click the Preview link to take a look at your changes.
            
 </div>
 
+
             
-<hr>
-
-<p align="center"> 
-  <i><b>Currently Playing🎶...</b></i>
-  <br><br>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-    <img src="https://novatorem-lostgirljourney.vercel.app/api/spotify" alt="Spotify"/>
-  </a>
-  <br>
-  <a href="https://open.spotify.com/user/31glrpxgbfoi6qprbrezs4cwwaiu"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31glrpxgbfoi6qprbrezs4cwwaiu&count=1" alt="Spotify"/>
-  </a>
-</p>
-
-<hr>
 
 
